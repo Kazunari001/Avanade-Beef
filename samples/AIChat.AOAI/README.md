@@ -30,16 +30,6 @@ Solution skeleton
 dotnet new beef --company AIChat --appname AOAI --datasource Cosmos
 ```
 
-```
-„¤„Ÿ„Ÿ AIChat.AOAI
-  „¤„Ÿ„Ÿ AIChat.AOAI.Api         # API end-point and operations
-  „¤„Ÿ„Ÿ AIChat.AOAI.Business    # Core business logic components
-  „¤„Ÿ„Ÿ AIChat.AOAI.CodeGen     # Entity and Reference Data code generation console
-  „¤„Ÿ„Ÿ AIChat.AOAI.Common      # Common / shared components
-  „¤„Ÿ„Ÿ AIChat.AOAI.Test        # Unit and intra-integration tests
-  „¤„Ÿ„Ÿ AIChat.AOAI.sln         # Solution file that references all above projects
-```
-
 Code Generation
 ---
 Please copy the .yaml of this project.
