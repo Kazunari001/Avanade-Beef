@@ -63,7 +63,7 @@ sequenceDiagram
 	participant Client
 	
 	Client ->> Beef: Call API
-	Beef ->> Comos: Get the top 3 histories
+	Beef ->> Cosmos: Get the top 3 histories
 	Beef ->> Beef: Set system prompt
 	Beef ->> Beef: Set history messages
 	Beef ->> Beef: Set client message
